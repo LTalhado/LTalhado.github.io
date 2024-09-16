@@ -4,8 +4,8 @@
 
 
 ## Education 
-M.S.C, Intelligent Systems and Robotics | De Montfort University Leicester(July 2020)
-B.S.C, Intelligent Systems | De Montfort University Leicester(July 2019)
+- M.S.C, Intelligent Systems and Robotics | De Montfort University Leicester(July 2020)
+- B.S.C, Intelligent Systems | De Montfort University Leicester(July 2019)
 
 # Work Experience
 **Data Scientist Contractor @ GlaxoSmithKline (GSK) (_August 2021_ – _October 2021_)**
