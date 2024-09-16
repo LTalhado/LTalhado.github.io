@@ -1,11 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python. SQl, Pytorch, PostgreSQL
+#### Technical Skills: Python. SQL, PyTorch, PostgreSQL
 
 
 ## Education 
-- M.S.C, Intelligent Systems and Robotics | De Montfort University Leicester(July 2020)
-- B.S.C, Intelligent Systems | De Montfort University Leicester(July 2019)
+- MSc, Intelligent Systems and Robotics | De Montfort University Leicester | July 2020
+- BSc, Intelligent Systems | De Montfort University Leicester | July 2019
 
 # Work Experience
 **Data Scientist Contractor @ GlaxoSmithKline (GSK) (_August 2021_ – _October 2021_)**
